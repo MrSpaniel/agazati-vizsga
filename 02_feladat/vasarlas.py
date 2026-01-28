@@ -1,0 +1,1 @@
+termek_ar= int(input)
